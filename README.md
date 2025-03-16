@@ -2,6 +2,8 @@
 
 A modern implementation of the classic Flappy Bird game using HTML5 Canvas and JavaScript.
 
+🎮 [Play the Game](https://riyazatdurrani.github.io/Flappy-Bird/)
+
 ## Features
 
 - Smooth bird animation with realistic physics
@@ -26,9 +28,13 @@ A modern implementation of the classic Flappy Bird game using HTML5 Canvas and J
 Simply clone the repository and open `index.html` in your web browser:
 
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/riyazatdurrani/Flappy-Bird.git
 cd flappy-bird
 ```
+
+## Live Demo
+
+The game is deployed on GitHub Pages: [Play Flappy Bird](https://riyazatdurrani.github.io/Flappy-Bird/)
 
 ## License
 
